@@ -22,10 +22,10 @@ _Explain the methodological difficulties characteristic of this domain._
 
 <!-- JSL:AUTO-METHODS:START -->
 
+- [Statistical Computing and Visualization](https://github.com/LystadJS/method-statistical-computing) — 2 registered projects
 - [Dimension Reduction](https://github.com/LystadJS/method-dimension-reduction) — 1 registered project
 - [Missing Data and Measurement](https://github.com/LystadJS/method-missing-data) — 1 registered project
 - [Spatial and Geographic Statistics](https://github.com/LystadJS/method-spatial-statistics) — 1 registered project
-- [Statistical Computing and Visualization](https://github.com/LystadJS/method-statistical-computing) — 2 registered projects
 
 <!-- JSL:AUTO-METHODS:END -->
 
