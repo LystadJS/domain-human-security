@@ -1,0 +1,9 @@
+schema_version: '1.0'
+domain:
+  id: human-security
+  label: Human Security
+  repository: LystadJS/domain-human-security
+  status: planned
+  summary: Research on threats to human life, safety, welfare, and resilience across
+    borders and institutions.
+  related_domains: []
